@@ -1,4 +1,5 @@
-  Proiect in C++ in care poti sa adaugi si sa administrezi mai multe pizzerii. (Pizza Management System)
+<pre>
+    Proiect in C++ in care poti sa adaugi si sa administrezi mai multe pizzerii. (Pizza Management System)
 
   Acest proiect a fost realizat folosind concepte de baza din POO (Programare orientata pe obiecte): 
   - Incapsularea datelor
@@ -19,3 +20,4 @@
   - Inheritance
   
   The application allows the use of CRUD (Create, Read, Update, Delete) operations.
+</pre>

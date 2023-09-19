@@ -8,9 +8,8 @@ Acest proiect a fost realizat folosind concepte de baza din POO(Programare orien
 - Mostenire
 
 Aplicatia permite si folosirea operatiilor CRUD (CreateReadUpdateDelete).
-
-
-
+/n
+\n
 C++ project where you can add and manage multiple pizza shops. (Pizza Management System)
 
 This project was developed using basic OOP (Object-Oriented Programming) concepts:
